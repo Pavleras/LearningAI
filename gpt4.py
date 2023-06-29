@@ -1,7 +1,6 @@
 # main.py
 import random
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt2
 import numpy as np
 
 list_values = [0,1]
